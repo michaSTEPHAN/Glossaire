@@ -535,16 +535,48 @@ Celles-ci sont constituées de lignes appelées ___ et de colonnes appelées ___
 
 ## Gestion de projets - DevOps
 127. Qu’est-ce que la gestion de projet ?	
+    - La gestion de projet consiste à planifier, organiser, et gérer les ressources pour atteindre des objectifs spécifiques dans un projet.
+    - La gestion de projet1, est l'ensemble des activités visant à organiser le bon déroulement d’un projet et à en atteindre les objectifs en temps et en heures selon les objectifs visés. Elle consiste à appliquer les méthodes, techniques, et outils de gestion spécifiques aux différentes étapes du projet, de l'évaluation de l'opportunité jusqu'à l'achèvement du projet.
+
 128. Qu’est-ce qu’une méthode Agile de gestion de projet ? 
-129. Expliquer la méthode MoSCoW en quelques lignes et citer ses avantages
+    - La méthode agile est une méthodologie de gestion de projet ouverte au changement, dont l'objectif est de développer un produit de haute qualité de façon incrémentale.
+    - Elle s'oppose aux méthodologies de gestion de projet traditionnelles qui s'organisent selon un mode de travail séquentiel.
+    - La méthode agile est organisée en cycles de développements courts, appelés des sprints. Le produit final est développé au fur et à mesure de l'avancement des sprints.
+
+129. Expliquer la méthode MoSCoW en quelques lignes et citer ses avantages.
+    - La méthode MoSCoW est une technique visant à établir les priorités des besoins ou des exigences en matière d'assistance à maîtrise d'ouvrage et de développement logiciel. L'objectif est que le maître d'œuvre et le maître d'ouvrage s'accordent sur l'importance des tâches à réaliser par rapport aux délais prévus.
+
 130. A quoi sert la méthodologie MVP ? Citer les caractéristiques clés
 131. Qu’est-ce que la planification itérative ?
+    - La planification itérative repose sur l’idée que les plans les mieux conçus nécessitent souvent des ajustements à mesure que les circonstances changent et que de nouvelles idées émergent. Cela implique un processus cyclique de planification, d’exécution, d’évaluation et de révision.
+
 132. Citer 3 méthodes Agiles dans le cadre d’un projet informatique
+        - La méthode Scrum
+        - La méthode Kanban
+        - La méthode Kanban
+
 133. Qu’est-ce qu’une réunion de revue de projet ?
+    - La revue de projet, aussi appelée réunion de revue, est une des réunions essentielles du projet.
+    Elle a lieu à la fin de chaque phase majeure.
+    Elle permet à la fois de valider que le travail accompli jusque-là est en ligne avec le plan détaillé et d’officialiser le passage à la phase suivante.
+    Il y a donc plusieurs revues durant un projet.
+
 134. Qu’est-ce qu’un livrable dans un projet ? 
-135. Quels sont les 3 piliers SCRUM ? Définir chacun d’entre eux
+    - Un livrable projet est le résultat attendu d'une tâche ou d'un projet, qui prend généralement la forme d'un produit physique, d'un logiciel, d'un service ou encore d'un document. Il s'agit d'un résultat spécifique, tangible et mesurable.
+
+135. Quels sont les 3 piliers SCRUM ? Définir chacun d’entre eux.
+    - Les trois piliers de Scrum  sont :
+        -> La transparence : Tous les membres de l'équipe projet et les parties prenantes savent ce qu'il se passe.
+        -> L'inspection    : Le travail est vérifié au fur et à mesure, afin d'éviter de devoir refaire deux fois la même chose. On le fait bien du premier coup.
+        -> L'adaptation : L'équipe Scrum s'adapte continuellement au projet, à son contexte, et à ce qu'elle apprend en cours de route grâce à l'empirisme.
+
 136. Qu’est-ce que le DevOps et quel est son objectif principal ?
+    - Le terme “DevOps” est composé des termes “développement” et “opérations”. Il s’agit d’une pratique visant à fusionner le développement, l’assurance qualité, et les opérations à savoir le déploiement et l’intégration en un unique ensemble de processus continus.
+    Cette méthodologie nouvelle est une extension naturelle des approches Agile et de livraisons continue (CI/CD).
+    - avantage du DevOps est la vitesse. Cette méthode permet d’accélérer les lancements de produits et d’améliorer leur qualité. L’accélération est liée à la livraison continue, permettant de recevoir un feedback plus rapidement. Ainsi, les développeurs peuvent corriger les bugs de façon précoce. Les équipes peuvent donc se focaliser sur la qualité du produit et automatiser les processus.
+
 137. Qu’est-ce que l’intégration continue ? 
+    - 'intégration continue (de l'anglais : Continuous integration, CI), est un ensemble de pratiques utilisées en génie logiciel consistant à vérifier à chaque modification de code source que le résultat des modifications ne produit pas de régression dans l'application développée.
 
 138. Qu’est-ce que Docker ? Et en quoi est-il utile dans le cadre du DevOps ?
         - Lorsque vous arrivez sur une nouvelle machine, plusieurs choses peuvent changer. 
